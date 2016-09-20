@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts" meta_type="JavaScripts Registry">
+
+ <!-- Reorder JS Specific for Genweb UPC -->
+ <javascript id="++genwebsearchpage++js/searchinhome.js" cacheable="True"
+   compression="safe" cookable="False" enabled="True" inline="False"/>
+   
+</object>
