@@ -31,6 +31,7 @@ setup(name='genweb.searchpage',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'genweb.upc',
       ],
       extras_require={},
       entry_points="""
